@@ -4,7 +4,7 @@ This repository containts scripts for analysis of TFRC expression levels, part o
 
 ### Data
 
-Data files needed to replicate the plots, as well as data used for preliminary analysis, are included in the `data/` folder. Data were downlooaded from MERAV and GENT2 databases, with the final plots being made from MERAV data.
+Data files needed to replicate the plots, as well as data used for preliminary analysis, are included in the `data/` folder. Data were downloaded from MERAV and GENT2 databases, with the final plots being made from MERAV data.
 
 ### Notebooks
 
