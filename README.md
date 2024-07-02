@@ -10,3 +10,8 @@ Data files needed to replicate the plots, as well as data used for preliminary a
 
 `expression_analysis.ipynb`: scripts for plotting MERAV data of TFRC expression and conducting statistical tests
 `gent2_plots.ipynb`: analysis of GENT2 data
+
+### Installation
+`conda create --name tfrc_env python==3.10.5`
+`pip install -r requirements.txt`
+`requirements.txt` lists required package versions.
