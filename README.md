@@ -14,7 +14,7 @@ Data files needed to replicate the plots, as well as data used for preliminary a
 ### Installation
 
 Package requirements are in `requirements.txt`. Installation should take a few minutes. \
-To install, do:
+To install, do:\
 `conda create --name tfrc_env python==3.10.5`\
 `conda activate tfrc_env`\
 `pip install -r requirements.txt`
