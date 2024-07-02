@@ -12,6 +12,10 @@ Data files needed to replicate the plots, as well as data used for preliminary a
 `gent2_plots.ipynb`: analysis of GENT2 data
 
 ### Installation
+
+Requirements are in `requirements.txt`, to install, do:
+
 `conda create --name tfrc_env python==3.10.5`
+`conda activate tfrc_env`
 `pip install -r requirements.txt`
-`requirements.txt` lists required package versions.
+
